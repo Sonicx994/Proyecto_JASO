@@ -7,7 +7,7 @@ public class Main extends JFrame {
 
     public Main() {
         // Carga la imagen de fondo
-        ImageIcon icono = new ImageIcon("C:\\Users\\Cristian David\\Desktop\\Curso_2023-2024\\Entornos\\Proyecto_Onepiece\\Proyecto_JASO\\imagen.jpg");
+        ImageIcon icono = new ImageIcon("C:\\\\Users\\\\Javier\\\\Desktop\\\\Entornos de Desarrollo\\\\asd.png");
         imagenFondo = icono.getImage();
 
         // Configura la ventana
