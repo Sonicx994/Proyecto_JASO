@@ -7,6 +7,6 @@ public class BotonHandler implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         // Mostrar el mensaje "Muwigara" cuando se presiona el botón
-        JOptionPane.showMessageDialog(null, "Muwigara el que lo lea");
+        JOptionPane.showMessageDialog(null, "Muwigara el que lo lea y es pro");
     }
 }

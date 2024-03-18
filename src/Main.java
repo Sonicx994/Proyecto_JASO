@@ -11,7 +11,7 @@ public class Main extends JFrame {
         imagenFondo = icono.getImage();
 
         // Configura la ventana
-        setTitle("Ventana One Piece");
+        setTitle("Ventana de One Piece");
         setSize(800, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
