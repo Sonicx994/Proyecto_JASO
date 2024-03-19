@@ -8,6 +8,7 @@ public class Main extends JFrame {
     public Main() {
         // Carga la imagen de fondo
         ImageIcon icono = new ImageIcon("C:\\\\Users\\\\Javier\\\\Desktop\\\\Entornos de Desarrollo\\\\asd.png");
+        System.out.println("DarDealta a jugador viva el betis joder que guapo yiahtgyutgyugugyu");
         imagenFondo = icono.getImage();
 
         // Configura la ventana
